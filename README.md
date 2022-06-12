@@ -1,17 +1,17 @@
-### Welcome! I'm Manuel - aka [mbodev][website] 👋 
+### Welcome! I'm Manuel - aka [mbodev][website] 👋
 
 [![Website](https://img.shields.io/website?label=mbo.dev&style=for-the-badge&url=https%3A%2F%2Fmbo.dev)](website)
 [![Twitter Follow](https://img.shields.io/twitter/follow/_mbodev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmbogner&screen_name=_mbodev)
 
-## I'm a Software Architect, Developer and Teacher!!
+## I'm a software architect, developer, Open Source enthusiast and trainer
 
-- 🔭 I just launched my new [website][website] and started [blogging][blog] again
+- 🔭 My [website][website] includes some information about me and my [blog][blog] consists of technical notes
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other devs
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to ride my motorbike and I'm a diving instructor
 
-### Connect with me:
+### Connect with me
 
 [<img align="left" alt="mbo.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="mbo.dev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -22,7 +22,7 @@
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools
 
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][website]
 [<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />][website]
@@ -58,7 +58,7 @@
 
 [<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][website]
 [<img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />][website]
-[<img align="left" alt="MaxOS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" />][website]
+[<img align="left" alt="MacOS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" />][website]
 [<img align="left" alt="IntelliJ" width="26px" src="https://raw.githubusercontent.com/github/explore/caa262eeb858e81282d6f651d6eef1f8730b54ba/topics/intellij-idea/intellij-idea.png" />][website]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
 [<img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />][website]
@@ -72,5 +72,4 @@
 [linkedin]: https://www.linkedin.com/in/manuel-bogner/
 [gitlab]: https://gitlab.com/mbodev
 [xing]: https://www.xing.com/profile/Manuel_Bogner
-[facebook]: https://www.facebook.com/mbogner666
 [blog]: https://blog.coffeebeans.at
