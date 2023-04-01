@@ -1,21 +1,19 @@
 ### Welcome! I'm Manuel - aka [mbodev][website] 👋
 
 [![Website](https://img.shields.io/website?label=mbo.dev&style=for-the-badge&url=https%3A%2F%2Fmbo.dev)](website)
-[![Twitter Follow](https://img.shields.io/twitter/follow/_mbodev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmbogner&screen_name=_mbodev)
 
 ## I'm a software architect, developer, Open Source enthusiast and trainer
 
 - 🔭 My [website][website] includes some information about me and my [blog][blog] consists of technical notes
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other devs
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to ride my motorbike and I'm a diving instructor
 
 ### Connect with me
 
 [<img align="left" alt="mbo.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="mbo.dev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="mbo.dev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="mbo.dev | Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][gitlab]
 [<img align="left" alt="mbo.dev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="mbo.dev | Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]
@@ -67,7 +65,6 @@
 [<img align="left" alt="Markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />][website]
 
 [website]: https://mbo.dev
-[twitter]: https://twitter.com/_mbodev
 [youtube]: https://www.youtube.com/channel/UC9d3SXuZ5hKDEJxYb2ld-XQ
 [linkedin]: https://www.linkedin.com/in/manuel-bogner/
 [gitlab]: https://gitlab.com/mbodev
