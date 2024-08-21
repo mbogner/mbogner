@@ -7,7 +7,7 @@
 - 🔭 My [website][website] includes some information about me and my [blog][blog] consists of technical notes
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other devs
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 Overall Goal: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to ride my motorbike and I'm a diving instructor
 
 ### Connect with me
