@@ -4,7 +4,7 @@
 
 ## I'm a software architect, developer, Open Source enthusiast and trainer
 
-- 🔭 My [website][website] includes some information about me and my [blog][blog] consists of technical notes
+- 🔭 My [website][website] includes some information about me
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other devs
 - 🥅 Overall Goal: Contribute more to Open Source projects
